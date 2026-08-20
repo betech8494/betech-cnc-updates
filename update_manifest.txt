@@ -1,7 +1,0 @@
-# BE.TECH SERVER UPDATE MANIFEST v2
-product=BETECH-CNC-TOOLS-HUB
-channel=stable
-latest_version=17.6.2
-mandatory=false
-download_url=https://betech8494.github.io/betech-cnc-updates/BE.TECH_CNC_Tools_Hub_17.6.2.zip
-notes=Installer launch fix test 17.6.2
